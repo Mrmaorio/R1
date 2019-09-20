@@ -14,6 +14,7 @@ public class Demo4 {
 
     @Test
     public void testLoadOrder(){
+        system.out.print("已经经过修改!");
         Zi z=new Zi();
     }
 }
